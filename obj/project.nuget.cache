@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eCwrU8uS/eqspNSGDsCXgKPYIAEwRoMeAcP1NompXZ/hE4lftF8lumTcB5zEZPQKzZW96RCW/MScpdQwufN4gw==",
+  "dgSpecHash": "8H/SD2r7Du+Kf/6cIYaYdeomT8xSEvy6fjPZ6zcYvln9Ov2pqr28gTm2J1rjq5VOph40u8Qewu+xh+xp1rClYQ==",
   "success": true,
-  "projectFilePath": "/home/storm/Documents/Dotnet_Projects/netwrk/netwrk.csproj",
+  "projectFilePath": "C:\\Users\\kaarm\\netwrk\\netwrk.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
